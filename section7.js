@@ -32,7 +32,7 @@ console.log(z);
 
 function myFunction() {
   "use strict";
-  y = 20;
+  y = 30;
   console.log(y);
 }
 
